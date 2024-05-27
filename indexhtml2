@@ -1,0 +1,4413 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=2.0' name='viewport' />
+    <title>Império Rocha</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="Loja Integrada" />
+
+    <link rel="dns-prefetch" href="https://cdn.awsli.com.br/">
+    <link rel="preconnect" href="https://cdn.awsli.com.br/">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    
+      <meta property="og:url" content="https://www.imperiorochamakeup.com.br/" />
+      <meta property="og:type" content="website" />
+      <meta property="og:site_name" content="Império Rocha Makeup" />
+      <meta property="og:locale" content="pt_BR" />
+    
+
+    
+  
+    <script>
+      setTimeout(function() {
+        if (typeof removePageLoading === 'function') {
+          removePageLoading();
+        };
+      }, 7000);
+    </script>
+  
+
+
+
+    
+
+  <meta property="og:title" content="Império Rocha Makeup" />
+  
+    <meta property="og:image" content="https://cdn.awsli.com.br/2642/2642700/logo/im--8--n48263cggw.png" />
+  
+
+
+
+
+
+
+
+
+  <meta name="robots" content="index, follow" />
+
+
+
+    
+      
+        <link rel="shortcut icon" href="https://cdn.awsli.com.br/2642/2642700/favicon/d-38ynpsa7aq.png" />
+      
+      <link rel="icon" href="https://cdn.awsli.com.br/2642/2642700/favicon/d-38ynpsa7aq.png" sizes="192x192">
+    
+    
+      <meta name="theme-color" content="#7D26AF">
+    
+
+    
+      <link rel="stylesheet" href="https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/all.min.css?v=3b20af0" type="text/css">
+    
+    <!--[if lte IE 8]><link rel="stylesheet" href="https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/ie-fix.min.css" type="text/css"><![endif]-->
+    <!--[if lte IE 9]><style type="text/css">.lateral-fulbanner { position: relative; }</style><![endif]-->
+
+    
+      
+        <link rel="stylesheet" href="https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/tema-escuro.min.css?v=3b20af0" type="text/css">
+      
+    
+
+    
+    
+      <link href="https://fonts.googleapis.com/css2?family=Open%20Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/bootstrap-responsive.css?v=3b20af0" type="text/css">
+      <link rel="stylesheet" href="https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/style-responsive.css?v=3b20af0">
+    
+
+    
+      <link rel="stylesheet" href="/tema.css?v=20240330-082649">
+    
+    <script type="text/javascript">
+      var LOJA_ID = 2642700;
+      var MEDIA_URL = "https://cdn.awsli.com.br/";
+      var API_URL_PUBLIC = 'https://api.awsli.com.br/';
+      
+        var CARRINHO_PRODS = [];
+      
+      var ENVIO_ESCOLHIDO = 0;
+      var ENVIO_ESCOLHIDO_CODE = 0;
+      var CONTRATO_INTERNACIONAL = false;
+      var CONTRATO_BRAZIL = !CONTRATO_INTERNACIONAL;
+      var IS_STORE_ASYNC = true;
+      var IS_CLIENTE_ANONIMO = false;
+
+      
+      var API_PRODUCT_ENABLED = Boolean('False' === 'True');
+      var API_PRODUCT_PUBLIC_URL = API_PRODUCT_ENABLED ? 'https://api.awsli.com.br/v3/products' : 'https://api.awsli.com.br/v2';
+    </script>
+
+    
+
+    <!-- Editor Visual -->
+    
+
+    <script>
+      
+
+      const isPreview = JSON.parse(sessionStorage.getItem('preview', true));
+      if (isPreview) {
+        const url = location.href
+        location.search === '' && url + (location.search = '?preview=None')
+      }
+    </script>
+
+    
+      <script src="https://cdn.awsli.com.br/production/static/loja/estrutura/v1/js/all.min.js?v=3b20af0"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" href="https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/slick.min.css" type="text/css">
+    <script src="https://cdn.awsli.com.br/production/static/loja/estrutura/v1/js/slick.min.js?v=3b20af0"></script>
+    <link rel="stylesheet" href="https://cdn.awsli.com.br/production/static/css/jquery.fancybox.min.css" type="text/css" />
+    <script src="https://cdn.awsli.com.br/production/static/js/jquery/jquery.fancybox.pack.min.js"></script>
+
+    
+
+<script type="text/javascript">
+var owa_baseUrl = 'https://analytics.awsli.com.br/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setSiteId', 'loja-2642700']);
+owa_cmds.push(['trackPageView']);
+(function() {
+  var _owa = document.createElement('script'); _owa.type = 'text/javascript'; _owa.async = true;
+  _owa.src = 'https://cdn.awsli.com.br/production/static/analytics/owa.min.js?v=3b20af0';
+  var _owa_s = document.getElementsByTagName('script')[0]; _owa_s.parentNode.insertBefore(_owa, _owa_s);
+}());
+</script>
+
+    
+    
+  
+    <meta property="og:description" content="A loja Império Rocha Makeup possui uma grande variedade em produtos de maquiagem, temos linhas exclusivas com preço fixo de R$10." />
+    <meta name="description" content="A loja Império Rocha Makeup possui uma grande variedade em produtos de maquiagem, temos linhas exclusivas com preço fixo de R$10." />
+  
+
+
+    
+      
+	<!-- Código do cabecalho -->
+  
+      
+  
+
+      
+        
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?l=LIgtagDataLayer&id=AW-11325047577"></script>
+<script>
+  window.LIgtagDataLayer = window.LIgtagDataLayer || [];
+  function LIgtag(){LIgtagDataLayer.push(arguments);}
+  LIgtag('js', new Date());
+
+  LIgtag('set', {
+    'currency': 'BRL',
+    'country': 'BR'
+  });
+  LIgtag('config', 'AW-11325047577');
+  LIgtag('config', 'AW-11331845098');
+
+  if(window.performance) {
+    var timeSincePageLoad = Math.round(performance.now());
+    LIgtag('event', 'timing_complete', {
+      'name': 'load',
+      'value': timeSincePageLoad
+    });
+  }
+
+  $(document).on('li_view_home', function(_, eventID) {
+    LIgtag('event', 'view_home');
+  });
+
+  $(document).on('li_select_product', function(_, eventID, data) {
+    LIgtag('event', 'select_item', data);
+  });
+
+  $(document).on('li_start_contact', function(_, eventID, value) {
+    LIgtag('event', 'start_contact', {
+      value
+    });
+  });
+
+  $(document).on('li_view_catalog', function(_, eventID) {
+    LIgtag('event', 'view_catalog');
+  });
+
+  $(document).on('li_search', function(_, eventID, search_term) {
+    LIgtag('event', 'search', {
+      search_term
+    });
+  });
+
+  $(document).on('li_filter_products', function(_, eventID, data) {
+    LIgtag('event', 'filter_products', data);
+  });
+
+  $(document).on('li_sort_products', function(_, eventID, value) {
+    LIgtag('event', 'sort_products', {
+      value
+    });
+  });
+
+  $(document).on('li_view_product', function(_, eventID, item) {
+    LIgtag('event', 'view_item', {
+      items: [item]
+    });
+  });
+
+  $(document).on('li_select_variation', function(_, eventID, data) {
+    LIgtag('event', 'select_variation', data);
+  });
+
+  $(document).on('li_calculate_shipping', function(_, eventID, data) {
+    LIgtag('event', 'calculate_shipping', {
+      value: data.zipcode
+    });
+  });
+
+  $(document).on('li_view_cart', function(_, eventID, data) {
+    LIgtag('event', 'view_cart', data);
+  });
+
+  $(document).on('li_add_to_cart', function(_, eventID, data) {
+    LIgtag('event', 'add_to_cart', {
+      items: data.items
+    });
+  });
+
+  $(document).on('li_apply_coupon', function(_, eventID, value) {
+    LIgtag('event', 'apply_coupon', {
+      value
+    });
+  });
+
+  $(document).on('li_change_quantity', function(_, eventID, item) {
+    LIgtag('event', 'change_quantity', {
+      items: [item]
+    });
+  });
+
+  $(document).on('li_remove_from_cart', function(_, eventID, item) {
+    LIgtag('event', 'remove_from_cart', {
+      items: [item]
+    });
+  });
+
+  $(document).on('li_return_home', function(_, eventID) {
+    LIgtag('event', 'return_home');
+  });
+
+  $(document).on('li_view_checkout', function(_, eventID, data) {
+    LIgtag('event', 'begin_checkout', data);
+  });
+
+  $(document).on('li_login', function(_, eventID) {
+    LIgtag('event', 'login');
+  });
+
+  $(document).on('li_change_address', function(_, eventID, value) {
+    LIgtag('event', 'change_address', {
+      value
+    });
+  });
+
+  $(document).on('li_change_shipping', function(_, eventID, data) {
+    LIgtag('event', 'add_shipping_info', data);
+  });
+
+  $(document).on('li_change_payment', function(_, eventID, data) {
+    LIgtag('event', 'add_payment_info', data);
+  });
+
+  $(document).on('li_start_purchase', function(_, eventID) {
+    LIgtag('event', 'start_purchase');
+  });
+
+  $(document).on('li_checkout_error', function(_, eventID, value) {
+    LIgtag('event', 'checkout_error', {
+      value
+    });
+  });
+
+  $(document).on('li_purchase', function(_, eventID, data) {
+    LIgtag('event', 'purchase', data);
+
+    
+      LIgtag('event', 'conversion', {
+        send_to: 'AW-11331845098/2B36CNf1iuAYEOr3uJsq',
+        value: data.value,
+        currency: data.currency,
+        transaction_id: data.transaction_id
+      });
+    
+  });
+</script>
+        
+      
+
+      
+        <link href="//cdn.awsli.com.br/temasv2/4392/__theme_custom.css?v=1711472511" rel="stylesheet" type="text/css">
+<script src="//cdn.awsli.com.br/temasv2/4392/__theme_custom.js?v=1711472511"></script>
+      
+
+      
+    
+
+    
+
+    
+  <link rel="manifest" href="/manifest.json" />
+
+
+
+
+  </head>
+  <body class="pagina-inicial tema-transparente tema-pequeno ">
+    <div id="fb-root"></div>
+    
+  
+    <div id="full-page-loading">
+      <div class="conteiner" style="height: 100%;">
+        <div class="loading-placeholder-content">
+          <div class="loading-placeholder-effect loading-placeholder-header"></div>
+          <div class="loading-placeholder-effect loading-placeholder-body"></div>
+        </div>
+      </div>
+      <script>
+        var is_full_page_loading = true;
+        function removePageLoading() {
+          if (is_full_page_loading) {
+            try {
+              $('#full-page-loading').remove();
+            } catch(e) {}
+            try {
+              var div_loading = document.getElementById('full-page-loading');
+              if (div_loading) {
+                div_loading.remove();
+              };
+            } catch(e) {}
+            is_full_page_loading = false;
+          };
+        };
+        $(function() {
+          setTimeout(function() {
+            removePageLoading();
+          }, 1);
+        });
+      </script>
+      <style>
+        #full-page-loading { position: fixed; z-index: 9999999; margin: auto; top: 0; left: 0; bottom: 0; right: 0; }
+        #full-page-loading:before { content: ''; display: block; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255, 255, 255, .98); background: radial-gradient(rgba(255, 255, 255, .99), rgba(255, 255, 255, .98)); }
+        .loading-placeholder-content { height: 100%; display: flex; flex-direction: column; position: relative; z-index: 1; }
+        .loading-placeholder-effect { background-color: #F9F9F9; border-radius: 5px; width: 100%; animation: pulse-loading 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        .loading-placeholder-content .loading-placeholder-body { flex-grow: 1; margin-bottom: 30px; }
+        .loading-placeholder-content .loading-placeholder-header { height: 20%; min-height: 100px; max-height: 200px; margin: 30px 0; }
+        @keyframes pulse-loading{50%{opacity:.3}}
+      </style>
+    </div>
+  
+
+
+
+    
+      
+        
+
+
+
+
+<div class="barra-inicial fundo-secundario">
+  <div class="conteiner">
+    <div class="row-fluid">
+      <div class="lista-redes span3 hidden-phone">
+        
+          <ul>
+            
+            
+            
+            
+            
+              <li>
+                <a href="https://instagram.com/imperiorocha_" target="_blank" aria-label="Siga nos no Instagram"><i class="icon-instagram"></i></a>
+              </li>
+            
+            
+            
+          </ul>
+        
+      </div>
+      <div class="canais-contato span9">
+        <ul>
+          <li class="hidden-phone">
+            <a href="#modalContato" data-toggle="modal" data-target="#modalContato">
+              <i class="icon-comment"></i>
+              Fale Conosco
+            </a>
+          </li>
+          
+            <li>
+              <span>
+                <i class="icon-phone"></i>Telefone: (81) 99386-8992
+              </span>
+            </li>
+          
+          
+            <li class="tel-whatsapp">
+              <span>
+                <i class="fa fa-whatsapp"></i>Whatsapp: (81) 99386-8992
+              </span>
+            </li>
+          
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+    
+
+    <div class="conteiner-principal">
+      
+        
+          
+<div id="cabecalho" class="logo-centro ">
+
+  <div class="atalhos-mobile visible-phone fundo-secundario borda-principal">
+    <ul>
+
+      <li><a href="https://www.imperiorochamakeup.com.br/" class="icon-home"> </a></li>
+      
+      <li class="fundo-principal"><a href="https://www.imperiorochamakeup.com.br/carrinho/index" class="icon-shopping-cart"> </a></li>
+      
+      
+        <li class="menu-user-logged" style="display: none;"><a href="https://www.imperiorochamakeup.com.br/conta/logout" class="icon-signout menu-user-logout"> </a></li>
+      
+      
+      <li><a href="https://www.imperiorochamakeup.com.br/conta/index" class="icon-user"> </a></li>
+      
+      <li class="vazia"><span>&nbsp;</span></li>
+
+    </ul>
+  </div>
+
+  <div class="conteiner">
+    <div class="row-fluid">
+      <div class="conteudo-topo span3 hidden-phone">
+        <div class="superior row-fluid">
+          <div class="span12">
+            
+              
+                <div class="btn-group menu-user-logged" style="display: none;">
+                  <a href="https://www.imperiorochamakeup.com.br/conta/index" class="botao secundario pequeno dropdown-toggle" data-toggle="dropdown">
+                    Olá, <span class="menu-user-name"></span>
+                    <span class="icon-chevron-down"></span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a href="https://www.imperiorochamakeup.com.br/conta/index" title="Minha conta">Minha conta</a>
+                    </li>
+                    
+                      <li>
+                        <a href="https://www.imperiorochamakeup.com.br/conta/pedido/listar" title="Minha conta">Meus pedidos</a>
+                      </li>
+                    
+                    <li>
+                      <a href="https://www.imperiorochamakeup.com.br/conta/favorito/listar" title="Meus favoritos">Lista de desejos</a>
+                    </li>
+                    <li>
+                      <a href="https://www.imperiorochamakeup.com.br/conta/logout" title="Sair" class="menu-user-logout">Sair</a>
+                    </li>
+                  </ul>
+                </div>
+              
+              
+                <a href="https://www.imperiorochamakeup.com.br/conta/login" class="bem-vindo cor-secundaria menu-user-welcome">
+                  Bem-vindo, <span class="cor-principal">identifique-se</span> para fazer pedidos
+                </a>
+              
+            
+          </div>
+        </div>
+        <div class="inferior row-fluid">
+          <div class="span12">
+
+            <div class="busca borda-alpha">
+              <form id="form-buscar" action="/buscar" method="get">
+                <input id="auto-complete" type="text" name="q" placeholder="Digite o que você procura" value="" autocomplete="off" maxlength="255" />
+                <button class="botao botao-busca icon-search fundo-secundario" aria-label="Buscar"></button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="span6">
+        <h1 class="logo cor-secundaria">
+          <a href="https://www.imperiorochamakeup.com.br/" title="Império Rocha Makeup">
+            
+              <img src="https://cdn.awsli.com.br/400x300/2642/2642700/logo/im--8--n48263cggw.png" alt="Império Rocha Makeup" />
+            
+          </a>
+        </h1>
+      </div>
+
+      <div class="conteudo-topo span3 hidden-phone">
+        <div class="superior row-fluid">
+          <div class="span12">
+            <ul class="acoes-conta">
+              
+                <li>
+                  <i class="icon-list fundo-principal"></i>
+                  <a href="https://www.imperiorochamakeup.com.br/conta/pedido/listar" class="cor-secundaria">Meus Pedidos</a>
+                </li>
+              
+              
+                <li>
+                  <i class="icon-user fundo-principal"></i>
+                  <a href="https://www.imperiorochamakeup.com.br/conta/index" class="cor-secundaria">Minha Conta</a>
+                </li>
+              
+            </ul>
+          </div>
+        </div>
+        
+          <div class="inferior row-fluid">
+            <div class="span12">
+              
+
+  <div class="carrinho vazio">
+    
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/index">
+        <i class="icon-shopping-cart fundo-principal"></i>
+        <strong class="qtd-carrinho titulo cor-secundaria" style="display: none;">0</strong>
+        <span style="display: none;">
+          
+            <b class="titulo cor-secundaria"><span>Meu Carrinho</span></b>
+          
+          <span class="cor-secundaria">Produtos adicionados</span>
+        </span>
+        
+          <span class="titulo cor-secundaria vazio-text">Carrinho vazio</span>
+        
+      </a>
+    
+    <div class="carrinho-interno-ajax"></div>
+  </div>
+  
+<div class="minicart-placeholder" style="display: none;">
+  <div class="carrinho-interno borda-principal">
+    <ul>
+      <li class="minicart-item-modelo">
+        
+          <div class="preco-produto com-promocao destaque-preco ">
+            <div>
+              <s class="preco-venda">
+                R$ --PRODUTO_PRECO_DE--
+              </s>
+              <strong class="preco-promocional cor-principal">
+                R$ --PRODUTO_PRECO_POR--
+              </strong>
+            </div>
+          </div>
+        
+        <a data-href="--PRODUTO_URL--" class="imagem-produto">
+          <img data-src="https://cdn.awsli.com.br/64x64/--PRODUTO_IMAGEM--" alt="--PRODUTO_NOME--" />
+        </a>
+        <a data-href="--PRODUTO_URL--" class="nome-produto cor-secundaria">
+          --PRODUTO_NOME--
+        </a>
+        <div class="produto-sku hide">--PRODUTO_SKU--</div>
+      </li>
+    </ul>
+    <div class="carrinho-rodape">
+      <span class="carrinho-info">
+        
+          <i>--CARRINHO_QUANTIDADE-- produto no carrinho</i>
+        
+        
+          
+            <span class="carrino-total">
+              Total: <strong class="titulo cor-principal">R$ --CARRINHO_TOTAL_ITENS--</strong>
+            </span>
+          
+        
+      </span>
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/index" class="botao principal">
+        
+          <i class="icon-shopping-cart"></i>Ir para o carrinho
+        
+      </a>
+    </div>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+        
+      </div>
+
+    </div>
+
+    <div class="conteudo-topo visible-phone">
+
+          <div class="span12 busca-mobile">
+            <a href="javascript:;" class="atalho-menu visible-phone icon-th botao principal"> </a>
+
+            <div class="busca borda-alpha">
+              <form id="form-buscar" action="/buscar" method="get">
+                <input type="text" name="q" placeholder="Digite o que você procura" value="" maxlength="255" />
+                <button class="botao botao-busca icon-search fundo-secundario" aria-label="Buscar"></button>
+              </form>
+            </div>
+          </div>
+
+    </div>
+    
+
+
+  
+    
+      
+<div class="menu superior">
+  <ul class="nivel-um">
+    
+
+
+    
+
+
+    
+      <li class="categoria-id-21119075  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/acessorios-para-cabelo-21119075" title="Acessórios para cabelo">
+          <strong class="titulo cor-secundaria">Acessórios para cabelo</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22546942  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/adstringente-22546942" title="Adstringente">
+          <strong class="titulo cor-secundaria">Adstringente</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320152  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/agua-micelar-20320152" title="Água Micelar">
+          <strong class="titulo cor-secundaria">Água Micelar</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20451876  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/algodao-20451876" title="Algodão">
+          <strong class="titulo cor-secundaria">Algodão</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320239  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/argila-facial" title="Argila Facial">
+          <strong class="titulo cor-secundaria">Argila Facial</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320019  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/base" title="Base">
+          <strong class="titulo cor-secundaria">Base</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320026  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/batom" title="Batom">
+          <strong class="titulo cor-secundaria">Batom</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320389  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/blindagem" title="Blindagem">
+          <strong class="titulo cor-secundaria">Blindagem</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320032  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/blush" title="Blush">
+          <strong class="titulo cor-secundaria">Blush</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22558237  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/bolsa-22558237" title="BOLSA">
+          <strong class="titulo cor-secundaria">BOLSA</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22558264  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/bruma-22558264" title="BRUMA">
+          <strong class="titulo cor-secundaria">BRUMA</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22558419  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/cabelo-22558419" title="CABELO">
+          <strong class="titulo cor-secundaria">CABELO</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320249  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/cilios" title="Cílios">
+          <strong class="titulo cor-secundaria">Cílios</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20329655  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/cola-de-cilios-20329655" title="Cola de Cílios">
+          <strong class="titulo cor-secundaria">Cola de Cílios</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20329667  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/cola-unha-postica-20329667" title="Cola Unha Postiça">
+          <strong class="titulo cor-secundaria">Cola Unha Postiça</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320264  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/contorno" title="Contorno">
+          <strong class="titulo cor-secundaria">Contorno</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320025  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/corretivo" title="Corretivo">
+          <strong class="titulo cor-secundaria">Corretivo</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22747575  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/cuidados-intimos-22747575" title="Cuidados íntimos">
+          <strong class="titulo cor-secundaria">Cuidados íntimos</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20621640  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/curvex-20621640" title="Curvex">
+          <strong class="titulo cor-secundaria">Curvex</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320261  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/delineador" title="Delineador">
+          <strong class="titulo cor-secundaria">Delineador</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20325077  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/demaquilante-20325077" title="Demaquilante">
+          <strong class="titulo cor-secundaria">Demaquilante</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20323871  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/diluidor-20323871" title="Diluidor">
+          <strong class="titulo cor-secundaria">Diluidor</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320248  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/escova" title="Escova">
+          <strong class="titulo cor-secundaria">Escova</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22559017  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/esfoliante-22559017" title="ESFOLIANTE">
+          <strong class="titulo cor-secundaria">ESFOLIANTE</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20323450  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/esfoliante-facial-20323450" title="Esfoliante Facial">
+          <strong class="titulo cor-secundaria">Esfoliante Facial</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320241  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/esfoliante-labial" title="Esfoliante Labial">
+          <strong class="titulo cor-secundaria">Esfoliante Labial</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20328990  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/esponja-20328990" title="Esponja">
+          <strong class="titulo cor-secundaria">Esponja</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320027  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/bruma" title="Fixador de Maquiagem">
+          <strong class="titulo cor-secundaria">Fixador de Maquiagem</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20323765  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/gel-facial-20323765" title="Gel Facial">
+          <strong class="titulo cor-secundaria">Gel Facial</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320259  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/gelpasta-para-sobrancelha" title="Gel|Pasta para Sobrancelha">
+          <strong class="titulo cor-secundaria">Gel|Pasta para Sobrancelha</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22561133  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/glitter-22561133" title="Glitter">
+          <strong class="titulo cor-secundaria">Glitter</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22559071  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/gloss-22559071" title="GLOSS">
+          <strong class="titulo cor-secundaria">GLOSS</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20351049  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/henna-20351049" title="Henna">
+          <strong class="titulo cor-secundaria">Henna</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320245  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/hidratante-facial" title="Hidratante Facial">
+          <strong class="titulo cor-secundaria">Hidratante Facial</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320265  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/iluminador" title="Iluminador">
+          <strong class="titulo cor-secundaria">Iluminador</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22693613  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/lapis-de-olho-22693613" title="Lapis de olho">
+          <strong class="titulo cor-secundaria">Lapis de olho</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20342184  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/lapis-de-olho-20342184" title="Lápis de olho">
+          <strong class="titulo cor-secundaria">Lápis de olho</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20324793  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/lenco-umedecido-20324793" title="Lenço Umedecido">
+          <strong class="titulo cor-secundaria">Lenço Umedecido</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22564413  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/lip-22564413" title="lip">
+          <strong class="titulo cor-secundaria">lip</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22564415  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/lip-tint-22564415" title="LIP TINT">
+          <strong class="titulo cor-secundaria">LIP TINT</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20324777  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/maquiagem-infantil-20324777" title="Maquiagem Infantil">
+          <strong class="titulo cor-secundaria">Maquiagem Infantil</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320023  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/mascara-de-cilios" title="Máscara de Cílios">
+          <strong class="titulo cor-secundaria">Máscara de Cílios</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320234  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/macara-facial" title="Máscara Facial">
+          <strong class="titulo cor-secundaria">Máscara Facial</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20328922  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/necessarie-20328922" title="Necessarie">
+          <strong class="titulo cor-secundaria">Necessarie</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20322359  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/oleo-facial-20322359" title="Óleo Facial">
+          <strong class="titulo cor-secundaria">Óleo Facial</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320257  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/paleta-blushcontornoiluminador" title="Paleta Blush|Contorno|Iluminador">
+          <strong class="titulo cor-secundaria">Paleta Blush|Contorno|Iluminador</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320020  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/paleta-de-sombra" title="Paleta de Sombra">
+          <strong class="titulo cor-secundaria">Paleta de Sombra</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20497013  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/pigmento-20497013" title="Pigmento">
+          <strong class="titulo cor-secundaria">Pigmento</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20329635  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/pinca-20329635" title="Pinça">
+          <strong class="titulo cor-secundaria">Pinça</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320246  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/pincel" title="Píncel">
+          <strong class="titulo cor-secundaria">Píncel</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320022  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/po-compacto" title="Pó compacto">
+          <strong class="titulo cor-secundaria">Pó compacto</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20470337  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/porta-joia-20470337" title="Porta jóia">
+          <strong class="titulo cor-secundaria">Porta jóia</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320021  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/po-solto" title="Pó Solto">
+          <strong class="titulo cor-secundaria">Pó Solto</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320231  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/primer" title="Primer">
+          <strong class="titulo cor-secundaria">Primer</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20454607  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/ring-light-20454607" title="Ring Light">
+          <strong class="titulo cor-secundaria">Ring Light</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320003  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/sabonete-facial-20320003" title="Sabonete facial">
+          <strong class="titulo cor-secundaria">Sabonete facial</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20320242  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/serum-facial" title="Sérum Facial">
+          <strong class="titulo cor-secundaria">Sérum Facial</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22564455  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/skin-care-22564455" title="SKIN CARE">
+          <strong class="titulo cor-secundaria">SKIN CARE</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22568699  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/sombra-liquida-22568699" title="Sombra liquida">
+          <strong class="titulo cor-secundaria">Sombra liquida</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22558279  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/strass-22558279" title="STRASS">
+          <strong class="titulo cor-secundaria">STRASS</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-22558239  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/termica-22558239" title="TÉRMICA">
+          <strong class="titulo cor-secundaria">TÉRMICA</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20329574  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/tiara-20329574" title="Tiara">
+          <strong class="titulo cor-secundaria">Tiara</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20319997  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/tonico-20319997" title="Tônico">
+          <strong class="titulo cor-secundaria">Tônico</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20325205  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/touca-20325205" title="Touca">
+          <strong class="titulo cor-secundaria">Touca</strong>
+          
+        </a>
+        
+      </li>
+    
+      <li class="categoria-id-20340912  borda-principal">
+        <a href="https://www.imperiorochamakeup.com.br/unha-postica-20340912" title="Unha Postiça">
+          <strong class="titulo cor-secundaria">Unha Postiça</strong>
+          
+        </a>
+        
+      </li>
+    
+  </ul>
+</div>
+
+    
+  
+
+
+  </div>
+  <span id="delimitadorBarra"></span>
+</div>
+
+        
+      
+
+      
+        
+  
+    <div class="secao-banners">
+      <div class="conteiner">
+        <div id="smarthint-home-position1"></div>
+        <div id="blank-home-position1"></div>
+        
+          
+            <div class="row-fluid banner cheio">
+              
+                
+                  
+
+<div class="span12">
+  <div class="flexslider">
+    <ul class="slides">
+      
+        
+          
+<li>
+  
+    <img src="https://cdn.awsli.com.br/1920x1920/2642/2642700/banner/um-novo-conceito-em-loja-virtual--11--5vztpveij3.jpg" alt="maquiagens" />
+    
+  
+  
+</li>
+
+        
+      
+        
+          
+<li>
+  
+    <img src="https://cdn.awsli.com.br/1920x1920/2642/2642700/banner/um-novo-conceito-em-loja-virtual--15--6qecjx82em.jpg" alt="GLOSS UNICÓRNIO" />
+    
+  
+  
+</li>
+
+        
+      
+    </ul>
+  </div>
+</div>
+
+                
+              
+            </div>
+          
+        
+          
+        
+      </div>
+    </div>
+  
+
+      
+
+      <div id="corpo">
+        <div class="conteiner">
+          
+
+          
+
+          
+            <div class="secao-principal row-fluid sem-coluna">
+              
+
+              
+  <div class="conteudo span12">
+    
+      
+    
+      
+        
+          <div class="row-fluid ">
+            
+              
+                
+                
+              
+              
+
+<div id="listagemProdutos" class="listagem borda-alpha ">
+  
+    
+      
+
+
+  <div class="titulo-categoria borda-principal cor-principal vitrine-mas-vendido">
+    <strong>Mais Vendidos</strong>
+  </div>
+
+<ul data-produtos-linha="4">
+  
+    <li class="listagem-linha "><ul class="">
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-229861058  prod-cat-20320027" data-id="229861058">
+  <a href="https://www.imperiorochamakeup.com.br/bruma-fixadora-dapop" class="produto-sobrepor" title="BRUMA FIXADORA | DAPOP"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/229861058/brumaa-qhb0q2ya2y.jpg" alt="BRUMA FIXADORA | DAPOP" class="imagem-principal"  />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/bruma-fixadora-dapop" class="nome-produto cor-secundaria">BRUMA FIXADORA | DAPOP</a>
+    <div class="produto-sku hide">GEWGW88D5</div>
+    <div data-trustvox-product-code="229861058" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/produto/229861058/adicionar" title="Adicionar produto ao carrinho" class="botao botao-comprar principal botao-comprar-ajax" data-loading-text="<i class='icon-refresh icon-animate'></i>Ver mais">
+        <i class="icon-shopping-cart"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/bruma-fixadora-dapop" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-shopping-cart"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        
+        
+      
+    
+  
+    
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-256635005  prod-cat-21119075 prod-cat-22558419" data-id="256635005">
+  <a href="https://www.imperiorochamakeup.com.br/cacheador-de-cetim-para-cabelos" class="produto-sobrepor" title="CACHEADOR DE CETIM PARA CABELOS"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/256635005/images--23--4gkjz009qh.jpg" alt="CACHEADOR DE CETIM PARA CABELOS" class="imagem-principal" data-imagem-caminho="https://cdn.awsli.com.br/300x300/2642/2642700/produto/256635005/5e675e4698953872f4262e9e2b614e6b_tn-xbe2ixfutq.jpg" />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/cacheador-de-cetim-para-cabelos" class="nome-produto cor-secundaria">CACHEADOR DE CETIM PARA CABELOS</a>
+    <div class="produto-sku hide">TA39GUEBG</div>
+    <div data-trustvox-product-code="256635005" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/cacheador-de-cetim-para-cabelos" title="Ver detalhes do produto" class="botao botao-comprar principal">
+        <i class="icon-search"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/cacheador-de-cetim-para-cabelos" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-search"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        
+        
+      
+    
+  
+    
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-262724101  prod-cat-20320261" data-id="262724101">
+  <a href="https://www.imperiorochamakeup.com.br/delineador-preto-colletionplayboy" class="produto-sobrepor" title="DELINEADOR PRETO COLLETION|PLAYBOY"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/262724101/whatsapp-image-2024-04-09-at-11-51-32-ounoxkqoxd.jpeg" alt="DELINEADOR PRETO COLLETION|PLAYBOY" class="imagem-principal"  />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/delineador-preto-colletionplayboy" class="nome-produto cor-secundaria">DELINEADOR PRETO COLLETION|PLAYBOY</a>
+    <div class="produto-sku hide">8GWDTPBVJ</div>
+    <div data-trustvox-product-code="262724101" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/produto/262724101/adicionar" title="Adicionar produto ao carrinho" class="botao botao-comprar principal botao-comprar-ajax" data-loading-text="<i class='icon-refresh icon-animate'></i>Ver mais">
+        <i class="icon-shopping-cart"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/delineador-preto-colletionplayboy" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-shopping-cart"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        
+        
+      
+    
+  
+    
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-238365458  prod-cat-20320027" data-id="238365458">
+  <a href="https://www.imperiorochamakeup.com.br/bruma-fixadora-super-poderes-120ml" class="produto-sobrepor" title="BRUMA FIXADORA SUPER PODERES 120ml"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/238365458/deee8712-1c63-4bb1-81c3-74cb4d3275d8-a3xs7vc60o.png" alt="BRUMA FIXADORA SUPER PODERES 120ml" class="imagem-principal"  />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/bruma-fixadora-super-poderes-120ml" class="nome-produto cor-secundaria">BRUMA FIXADORA SUPER PODERES 120ml</a>
+    <div class="produto-sku hide">9T9CAF7MA</div>
+    <div data-trustvox-product-code="238365458" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/produto/238365458/adicionar" title="Adicionar produto ao carrinho" class="botao botao-comprar principal botao-comprar-ajax" data-loading-text="<i class='icon-refresh icon-animate'></i>Ver mais">
+        <i class="icon-shopping-cart"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/bruma-fixadora-super-poderes-120ml" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-shopping-cart"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        </ul></li>
+        <li class="listagem-linha"><ul class="row-fluid">
+      
+    
+  
+    
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-230333944  prod-cat-20320026 prod-cat-22559071" data-id="230333944">
+  <a href="https://www.imperiorochamakeup.com.br/magic-gloss-lyrics" class="produto-sobrepor" title="MAGIC GLOSS| LYRICS"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/230333944/magic-gloss-lyrics-1f34yf0ixr-nzt7hu3p1v.jpg" alt="MAGIC GLOSS| LYRICS" class="imagem-principal"  />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/magic-gloss-lyrics" class="nome-produto cor-secundaria">MAGIC GLOSS| LYRICS</a>
+    <div class="produto-sku hide">WLP2U4YHA</div>
+    <div data-trustvox-product-code="230333944" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/produto/230333944/adicionar" title="Adicionar produto ao carrinho" class="botao botao-comprar principal botao-comprar-ajax" data-loading-text="<i class='icon-refresh icon-animate'></i>Ver mais">
+        <i class="icon-shopping-cart"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/magic-gloss-lyrics" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-shopping-cart"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        
+        
+      
+    
+  
+    
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-240670674  prod-cat-20320259" data-id="240670674">
+  <a href="https://www.imperiorochamakeup.com.br/gel-para-sobrancelha-melu" class="produto-sobrepor" title="GEL PARA SOBRANCELHA MELU"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/240670674/download--15--9nobumyf20.jpg" alt="GEL PARA SOBRANCELHA MELU" class="imagem-principal" data-imagem-caminho="https://cdn.awsli.com.br/300x300/2642/2642700/produto/240670674/c50ff4e0-31d4-4ec0-8fdb-75a271f88071-hfhkgw18a4.jpg" />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/gel-para-sobrancelha-melu" class="nome-produto cor-secundaria">GEL PARA SOBRANCELHA MELU</a>
+    <div class="produto-sku hide">LVRHLJFXZ</div>
+    <div data-trustvox-product-code="240670674" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/produto/240670674/adicionar" title="Adicionar produto ao carrinho" class="botao botao-comprar principal botao-comprar-ajax" data-loading-text="<i class='icon-refresh icon-animate'></i>Ver mais">
+        <i class="icon-shopping-cart"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/gel-para-sobrancelha-melu" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-shopping-cart"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        
+        
+      
+    
+  
+    
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-230466704  prod-cat-20320020" data-id="230466704">
+  <a href="https://www.imperiorochamakeup.com.br/paleta-de-sombra-choco-mix-miamake" class="produto-sobrepor" title="PALETA DE SOMBRA CHOCO MIX| MIAMAKE"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/230466704/captura-de-tela-2023-08-23-100551--2--b7a0kcqfyl.jpg" alt="PALETA DE SOMBRA CHOCO MIX| MIAMAKE" class="imagem-principal"  />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/paleta-de-sombra-choco-mix-miamake" class="nome-produto cor-secundaria">PALETA DE SOMBRA CHOCO MIX| MIAMAKE</a>
+    <div class="produto-sku hide">3R2LXCEBJ</div>
+    <div data-trustvox-product-code="230466704" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/produto/230466704/adicionar" title="Adicionar produto ao carrinho" class="botao botao-comprar principal botao-comprar-ajax" data-loading-text="<i class='icon-refresh icon-animate'></i>Ver mais">
+        <i class="icon-shopping-cart"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/paleta-de-sombra-choco-mix-miamake" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-shopping-cart"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        
+        
+      
+    
+  
+    
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-239786117  prod-cat-20320026" data-id="239786117">
+  <a href="https://www.imperiorochamakeup.com.br/batom-matte-hudamoji-cor-01" class="produto-sobrepor" title="BATOM MATTE HUDAMOJI COR 01"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/239786117/4e60a426-5048-4097-8efc-427997b5fcc7-fltzt4re8u.png" alt="BATOM MATTE HUDAMOJI COR 01" class="imagem-principal" data-imagem-caminho="https://cdn.awsli.com.br/300x300/2642/2642700/produto/239786117/1--2--wpm6serxg8.jpg" />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/batom-matte-hudamoji-cor-01" class="nome-produto cor-secundaria">BATOM MATTE HUDAMOJI COR 01</a>
+    <div class="produto-sku hide">WZSDDADCP</div>
+    <div data-trustvox-product-code="239786117" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/produto/239786117/adicionar" title="Adicionar produto ao carrinho" class="botao botao-comprar principal botao-comprar-ajax" data-loading-text="<i class='icon-refresh icon-animate'></i>Ver mais">
+        <i class="icon-shopping-cart"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/batom-matte-hudamoji-cor-01" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-shopping-cart"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        </ul></li>
+        <li class="listagem-linha"><ul class="row-fluid">
+      
+    
+  
+    
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-244835551  prod-cat-20323765" data-id="244835551">
+  <a href="https://www.imperiorochamakeup.com.br/gel-facial-efeito-blindagem-super-poderes" class="produto-sobrepor" title="GEL FACIAL EFEITO BLINDAGEM| SUPER PODERES"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/244835551/whatsapp-image-2023-12-06-at-17-08-19--1--st1wanbvhf.jpeg" alt="GEL FACIAL EFEITO BLINDAGEM| SUPER PODERES" class="imagem-principal"  />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/gel-facial-efeito-blindagem-super-poderes" class="nome-produto cor-secundaria">GEL FACIAL EFEITO BLINDAGEM| SUPER PODERES</a>
+    <div class="produto-sku hide">UNB5LDQJ2</div>
+    <div data-trustvox-product-code="244835551" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/produto/244835551/adicionar" title="Adicionar produto ao carrinho" class="botao botao-comprar principal botao-comprar-ajax" data-loading-text="<i class='icon-refresh icon-animate'></i>Ver mais">
+        <i class="icon-shopping-cart"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/gel-facial-efeito-blindagem-super-poderes" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-shopping-cart"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        
+        
+      
+    
+  
+    
+      
+        
+          <li class="span3">
+        
+      
+        
+
+<div class="listagem-item prod-id-252629264  prod-cat-22561133" data-id="252629264">
+  <a href="https://www.imperiorochamakeup.com.br/kit-com-6-mix-de-confeteglitter" class="produto-sobrepor" title="KIT COM 6 MIX DE CONFETE|GLITTER"></a>
+  <div class="imagem-produto has-zoom">
+    <img loading="lazy" src="https://cdn.awsli.com.br/300x300/2642/2642700/produto/252629264/whatsapp-image-2024-01-31-at-15-09-01-tryyjgmwpk.jpeg" alt="KIT COM 6 MIX DE CONFETE|GLITTER" class="imagem-principal"  />
+  </div>
+  <div class="info-produto">
+    <a href="https://www.imperiorochamakeup.com.br/kit-com-6-mix-de-confeteglitter" class="nome-produto cor-secundaria">KIT COM 6 MIX DE CONFETE|GLITTER</a>
+    <div class="produto-sku hide">2UUHN73AY</div>
+    <div data-trustvox-product-code="252629264" class="hide trustvox-stars"></div>
+    
+      
+
+
+
+
+  <div>
+    
+      <div class="preco-produto destaque-preco ">
+        
+
+          
+            
+          
+
+          
+            
+              
+                
+                  <div>
+                    
+                      
+                        
+                          
+                          <strong class="preco-promocional cor-principal titulo" data-sell-price="10.00">
+                        
+                      
+                    
+                      R$ 10,00
+                    </strong>
+                  </div>
+                
+              
+            
+          
+
+          
+            
+
+  
+
+
+          
+
+          
+        
+      </div>
+    
+  </div>
+
+
+
+
+
+
+    
+  </div>
+
+  
+
+
+  
+  
+    
+    <div class="acoes-produto hidden-phone">
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/produto/252629264/adicionar" title="Adicionar produto ao carrinho" class="botao botao-comprar principal botao-comprar-ajax" data-loading-text="<i class='icon-refresh icon-animate'></i>Ver mais">
+        <i class="icon-shopping-cart"></i>Ver mais
+      </a>
+    </div>
+    <div class="acoes-produto-responsiva visible-phone">
+      <a href="https://www.imperiorochamakeup.com.br/kit-com-6-mix-de-confeteglitter" title="Ver detalhes do produto" class="tag-comprar fundo-principal">
+        <span class="titulo">Ver mais</span>
+        <i class="icon-shopping-cart"></i>
+      </a>
+    </div>
+    
+  
+
+
+
+  <div class="bandeiras-produto">
+    
+    
+    
+    
+  </div>
+</div>
+
+      </li>
+    
+      
+        </ul></li>
+        
+      
+    
+  
+</ul>
+
+    
+  
+</div>
+
+            
+            <div id="smarthint-home-position3"></div>
+            <div id="blank-home-position3"></div>
+          </div>
+        
+      
+    
+  </div>
+
+
+              
+            </div>
+          
+          <div class="secao-secundaria">
+            
+  
+  <div id="smarthint-home-position4"></div>
+  <div id="blank-home-position4"></div>
+
+          </div>
+        </div>
+      </div>
+
+      
+        
+      
+
+      
+        
+
+
+<div id="barraNewsletter" class="hidden-phone posicao-rodape">
+  <div class="conteiner">
+    <div class="row-fluid">
+      
+<div class="span">
+  <div class="componente newsletter borda-principal">
+    <div class="interno">
+      <span class="titulo cor-secundaria">
+        <i class="icon-envelope-alt"></i>Cadastre-se e ganhe 10% de desconto
+      </span>
+      <div class="interno-conteudo">
+        <p class="texto-newsletter newsletter-cadastro">Ganhe um cupom de 10% de desconto para primeira compra!!</p>
+        <div class="newsletter-cadastro input-conteiner">
+          <input type="text" name="email" placeholder="Digite seu email" />
+          <button class="botao botao-input fundo-principal icon-chevron-right newsletter-assinar" data-action="https://www.imperiorochamakeup.com.br/newsletter/assinar/" aria-label="Assinar"></button>
+        </div>
+        <div class="newsletter-confirmacao hide">
+          <i class="icon-ok icon-3x"></i>
+          <span>Obrigado por se inscrever!</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+  </div>
+</div>
+
+
+<div id="rodape">
+  <div class="institucional fundo-secundario">
+    <div class="conteiner">
+      <div class="row-fluid">
+        <div class="span9">
+          <div class="row-fluid">
+            
+              
+                
+                  
+                    
+<div class="span5 links-rodape links-rodape-categorias">
+  <span class="titulo">Categorias</span>
+  <ul class="split total-itens_65">
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/acessorios-para-cabelo-21119075">
+            Acessórios para cabelo
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/adstringente-22546942">
+            Adstringente
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/agua-micelar-20320152">
+            Água Micelar
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/algodao-20451876">
+            Algodão
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/argila-facial">
+            Argila Facial
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/base">
+            Base
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/batom">
+            Batom
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/blindagem">
+            Blindagem
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/blush">
+            Blush
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/bolsa-22558237">
+            BOLSA
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/bruma-22558264">
+            BRUMA
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/cabelo-22558419">
+            CABELO
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/cilios">
+            Cílios
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/cola-de-cilios-20329655">
+            Cola de Cílios
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/cola-unha-postica-20329667">
+            Cola Unha Postiça
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/contorno">
+            Contorno
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/corretivo">
+            Corretivo
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/cuidados-intimos-22747575">
+            Cuidados íntimos
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/curvex-20621640">
+            Curvex
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/delineador">
+            Delineador
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/demaquilante-20325077">
+            Demaquilante
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/diluidor-20323871">
+            Diluidor
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/escova">
+            Escova
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/esfoliante-22559017">
+            ESFOLIANTE
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/esfoliante-facial-20323450">
+            Esfoliante Facial
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/esfoliante-labial">
+            Esfoliante Labial
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/esponja-20328990">
+            Esponja
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/bruma">
+            Fixador de Maquiagem
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/gel-facial-20323765">
+            Gel Facial
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/gelpasta-para-sobrancelha">
+            Gel|Pasta para Sobrancelha
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/glitter-22561133">
+            Glitter
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/gloss-22559071">
+            GLOSS
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/henna-20351049">
+            Henna
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/hidratante-facial">
+            Hidratante Facial
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/iluminador">
+            Iluminador
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/lapis-de-olho-22693613">
+            Lapis de olho
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/lapis-de-olho-20342184">
+            Lápis de olho
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/lenco-umedecido-20324793">
+            Lenço Umedecido
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/lip-22564413">
+            lip
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/lip-tint-22564415">
+            LIP TINT
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/maquiagem-infantil-20324777">
+            Maquiagem Infantil
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/mascara-de-cilios">
+            Máscara de Cílios
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/macara-facial">
+            Máscara Facial
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/necessarie-20328922">
+            Necessarie
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/oleo-facial-20322359">
+            Óleo Facial
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/paleta-blushcontornoiluminador">
+            Paleta Blush|Contorno|Iluminador
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/paleta-de-sombra">
+            Paleta de Sombra
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/pigmento-20497013">
+            Pigmento
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/pinca-20329635">
+            Pinça
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/pincel">
+            Píncel
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/po-compacto">
+            Pó compacto
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/porta-joia-20470337">
+            Porta jóia
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/po-solto">
+            Pó Solto
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/primer">
+            Primer
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/ring-light-20454607">
+            Ring Light
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/sabonete-facial-20320003">
+            Sabonete facial
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/serum-facial">
+            Sérum Facial
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/skin-care-22564455">
+            SKIN CARE
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/sombra-liquida-22568699">
+            Sombra liquida
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/strass-22558279">
+            STRASS
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/termica-22558239">
+            TÉRMICA
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/tiara-20329574">
+            Tiara
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/tonico-20319997">
+            Tônico
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/touca-20325205">
+            Touca
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="https://www.imperiorochamakeup.com.br/unha-postica-20340912">
+            Unha Postiça
+          </a>
+        </li>
+      
+    
+  </ul>
+</div>
+
+                  
+                
+                  
+                    
+
+  <div class="span3 links-rodape links-rodape-paginas">
+    <span class="titulo">Conteúdo</span>
+    <ul>
+      <li><a href="#modalContato" data-toggle="modal" data-target="#modalContato">Fale Conosco</a></li>
+      
+        <li><a href="https://www.imperiorochamakeup.com.br/pagina/meios-de-pagamento-e-de-frete.html">Meios de pagamento e de frete</a></li>
+      
+        <li><a href="https://www.imperiorochamakeup.com.br/pagina/politica-de-privacidade.html">Política de privacidade</a></li>
+      
+        <li><a href="https://www.imperiorochamakeup.com.br/pagina/politica-de-trocas-e-devolucoes.html">Política de Trocas e Devoluções</a></li>
+      
+        <li><a href="https://www.imperiorochamakeup.com.br/pagina/sobre-nos.html">Sobre nós</a></li>
+      
+    </ul>
+  </div>
+
+
+                  
+                
+                  
+                    <div class="span4 sobre-loja-rodape">
+  <span class="titulo">Sobre a loja</span>
+  <p>
+      A loja Império Rocha Makeup possui uma grande variedade em produtos de maquiagem, temos linhas exclusivas com preço fixo de R$10.
+  </p>
+</div>
+
+                  
+                
+                  
+                
+              
+            
+              
+            
+            
+            <div class="span12 visible-phone">
+              <span class="titulo">Contato</span>
+              <ul>
+                
+                <li>
+                  <a href="tel:(81) 99386-8992">
+                    <i class="icon-phone"></i> Telefone: (81) 99386-8992
+                  </a>
+                </li>
+                
+                
+                <li class="tel-whatsapp">
+                  <a href="https://api.whatsapp.com/send?phone=5581993868992" target="_blank">
+                    <i class="fa fa-whatsapp"></i> Whatsapp: (81) 99386-8992
+                  </a>
+                </li>
+                
+                
+                
+                <li>
+                  <a href="mailto:imperiorochalojavirtual@gmail.com">
+                    <i class="fa fa-envelope"></i> E-mail: imperiorochalojavirtual@gmail.com
+                  </a>
+                </li>
+                
+              </ul>
+            </div>
+            
+          </div>
+        </div>
+        
+          
+            <!--googleoff: all-->
+              <div class="span3">
+                <div class="redes-sociais borda-principal">
+                  <span class="titulo cor-secundaria hidden-phone">Social</span>
+                  
+
+                  
+  <div class="lista-redes ">
+    <ul>
+      
+      
+      
+      
+      
+        <li>
+          <a href="https://instagram.com/imperiorocha_" target="_blank" aria-label="Siga nos no Instagram"><i class="icon-instagram"></i></a>
+        </li>
+      
+      
+      
+    </ul>
+  </div>
+
+
+                </div>
+              </div>
+            <!--googleon: all-->
+          
+        
+      </div>
+    </div>
+  </div>
+
+  <div class="pagamento-selos">
+    <div class="conteiner">
+      <div class="row-fluid">
+        
+          
+        
+          
+            
+              
+                
+  <div class="span4 pagamento">
+    <span class="titulo cor-secundaria">Pague com</span>
+    <ul class="bandeiras-pagamento">
+      
+        <li><i class="icone-pagamento visa" title="visa"></i></li>
+      
+        <li><i class="icone-pagamento mastercard" title="mastercard"></i></li>
+      
+        <li><i class="icone-pagamento hipercard" title="hipercard"></i></li>
+      
+        <li><i class="icone-pagamento elo" title="elo"></i></li>
+      
+        <li><i class="icone-pagamento diners" title="diners"></i></li>
+      
+        <li><i class="icone-pagamento amex" title="amex"></i></li>
+      
+        <li><i class="icone-pagamento boleto" title="boleto"></i></li>
+      
+    </ul>
+    <ul class="gateways-rodape">
+      
+        
+          <li class="col-md-3">
+            <img loading="lazy" src="https://cdn.awsli.com.br/production/static/img/formas-de-pagamento/boleto-logo.png?v=3b20af0" alt="Pagali" class="logo-rodape-boleto-pagali" />
+          </li>
+        
+        
+          <li class="col-md-3">
+            <img loading="lazy" src="https://cdn.awsli.com.br/production/static/img/formas-de-pagamento/pix-logo.png?v=3b20af0" alt="Pix" class="logo-rodape-pix-pagali" />
+          </li>
+        
+        
+      
+        
+          <li class="col-md-3">
+            <img loading="lazy" src="https://cdn.awsli.com.br/production/static/img/formas-de-pagamento/boleto-logo.png?v=3b20af0" alt="proxy-paghiper-v1" class="logo-rodape-boleto-proxy-paghiper-v1" />
+          </li>
+        
+        
+        
+      
+    </ul>
+  </div>
+
+
+              
+            
+              
+                <div class="span4 selos ">
+    <span class="titulo cor-secundaria">Selos</span>
+    <ul>
+      
+        <li>
+          https://www.imperiorochamakeup.com.br/
+        </li>
+      
+      
+        <li>
+          <img loading="lazy" src="https://cdn.awsli.com.br/production/static/img/struct/stamp_encryptssl.png" alt="Site Seguro">
+        </li>
+      
+      
+        <li>
+          <a href="http://www.google.com/safebrowsing/diagnostic?site=www.imperiorochamakeup.com.br" title="Google Safe Browsing" target="_blank">
+            <img loading="lazy" src="https://cdn.awsli.com.br/production/static/img/struct/stamp_google_safe_browsing.png" alt="Google Safe Browsing">
+          </a>
+        </li>
+      
+      
+      
+      
+      
+    </ul>
+</div>
+
+              
+            
+              
+            
+          
+        
+      </div>
+    </div>
+  </div>
+    
+  <div style="background-color: #fff; border-top: 1px solid #ddd; position: relative; z-index: 10; font-size: 11px; display: block !important;">
+    <div class="conteiner">
+      <div class="row-fluid">
+        <div class="span9 span12" style="text-align: center; min-height: 20px; width: 100%;">
+          <p style="margin-bottom: 0;">
+            
+              Rayanne da Rocha Oliveira Bijuterias - CNPJ: 26.482.449/0001-27
+            
+            
+            &copy; Todos os direitos reservados. 2024
+          </p>
+        </div>
+        
+        <div style="min-height: 30px; text-align: center; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; float: left; opacity: 1 !important; display: block !important; visibility: visible !important; height: 40px !important; width: 100% !important; margin: 0 !important; position: static !important;">
+          <a href="https://www.lojaintegrada.com.br?utm_source=lojas&utm_medium=rodape&utm_campaign=imperiorochamakeup.com.br" title="Loja Integrada - Plataforma de loja virtual." target="_blank" style="opacity: 1 !important; display: inline-block !important; visibility: visible !important; margin: 0 !important; position: static !important; overflow: visible !important;">
+            <img loading="lazy" src="https://cdn.awsli.com.br/production/static/whitelabel/lojaintegrada/img/logo-rodape-loja-pro.png?v=3b20af0" alt="Logomarca Loja Integrada" style="opacity: 1 !important; display: inline !important; visibility: visible !important; margin: 0 !important; position: static !important; max-width: 1000px !important; max-height: 1000px !important; width: auto !important; height: auto !important;" />
+          </a>
+        </div>
+        
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+
+        
+          
+        
+      
+    </div>
+
+    
+      
+<div id="barraTopo" class="hidden-phone">
+  <div class="conteiner">
+    <div class="row-fluid">
+      <div class="span3 hidden-phone">
+        <h4 class="titulo">
+          <a href="https://www.imperiorochamakeup.com.br/" title="Império Rocha Makeup" class="cor-secundaria">Império Rocha Makeup</a>
+        </h4>
+      </div>
+      <div class="span3 hidden-phone">
+        <div class="canais-contato">
+          <ul>
+            <li><a href="#modalContato" data-toggle="modal" data-target="#modalContato">
+              <i class="icon-comment"></i>Fale Conosco</a>
+            </li>
+            
+              <li>
+                <a href="#modalContato" data-toggle="modal" data-target="#modalContato">
+                  <i class="icon-phone"></i>Tel: (81) 99386-8992
+                </a>
+              </li>
+            
+          </ul>
+        </div>
+      </div>
+      <div class="span6">
+        <div class="row-fluid">
+          <div class="busca borda-alpha span6">
+            <form action="/buscar" method="get">
+              <input type="text" name="q" placeholder="Digite o que você procura" maxlength="255" />
+              <button class="botao botao-busca botao-input icon-search fundo-secundario" aria-label="Buscar"></button>
+            </form>
+          </div>
+          
+            <div class="span6 hidden-phone">
+              
+
+  <div class="carrinho vazio">
+    
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/index">
+        <i class="icon-shopping-cart fundo-principal"></i>
+        <strong class="qtd-carrinho titulo cor-secundaria" style="display: none;">00</strong>
+        <span style="display: none;">
+          
+            <b class="titulo cor-secundaria"><span>Produtos no carrinho</span></b>
+          
+        </span>
+        
+          <span class="titulo cor-secundaria vazio-text">Carrinho vazio</span>
+        
+      </a>
+    
+    <div class="carrinho-interno-ajax"></div>
+  </div>
+  
+<div class="minicart-placeholder" style="display: none;">
+  <div class="carrinho-interno borda-principal">
+    <ul>
+      <li class="minicart-item-modelo">
+        
+          <div class="preco-produto com-promocao destaque-preco ">
+            <div>
+              <s class="preco-venda">
+                R$ --PRODUTO_PRECO_DE--
+              </s>
+              <strong class="preco-promocional cor-principal">
+                R$ --PRODUTO_PRECO_POR--
+              </strong>
+            </div>
+          </div>
+        
+        <a data-href="--PRODUTO_URL--" class="imagem-produto">
+          <img data-src="https://cdn.awsli.com.br/64x64/--PRODUTO_IMAGEM--" alt="--PRODUTO_NOME--" />
+        </a>
+        <a data-href="--PRODUTO_URL--" class="nome-produto cor-secundaria">
+          --PRODUTO_NOME--
+        </a>
+        <div class="produto-sku hide">--PRODUTO_SKU--</div>
+      </li>
+    </ul>
+    <div class="carrinho-rodape">
+      <span class="carrinho-info">
+        
+          <i>--CARRINHO_QUANTIDADE-- produto no carrinho</i>
+        
+        
+          
+            <span class="carrino-total">
+              Total: <strong class="titulo cor-principal">R$ --CARRINHO_TOTAL_ITENS--</strong>
+            </span>
+          
+        
+      </span>
+      <a href="https://www.imperiorochamakeup.com.br/carrinho/index" class="botao principal">
+        
+          <i class="icon-shopping-cart"></i>Ir para o carrinho
+        
+      </a>
+    </div>
+  </div>
+</div>
+
+
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    <!--googleoff: all-->
+
+    <div id="modalWindow" class="modal hide">
+      <div class="modal-body">
+        <div class="modal-body">
+          Carregando conteúdo, aguarde...
+        </div>
+      </div>
+    </div>
+
+    <div id="modalAlerta" class="modal hide">
+      <div class="modal-body"></div>
+      <div class="modal-footer">
+        <a href="" data-dismiss="modal" class="botao principal" rel="nofollow">Fechar</a>
+      </div>
+    </div>
+
+    <div id="modalContato" class="modal hide" tabindex="-1" aria-labelledby="modalContatoLabel" aria-hidden="true">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-remove"></i></button>
+        <span class="titulo cor-secundaria">Fale Conosco</span>
+        Preencha o formulário abaixo.
+      </div>
+      <form action="/contato/popup/" method="post" class="form-horizontal">
+        <div class="modal-body borda-principal">
+          <div class="contato-loading">
+            <i class="icon-spin icon-refresh"></i>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    
+      
+    
+
+    
+      <div id="AdicionarFavoritoSucessoModal" class="modal hide" aria-modal="true" tabindex="-1" role="dialog">
+        <div class="modal-header">
+          <span>Favorito adicionado</span>
+        </div>
+        <div class="modal-body">
+          O produto foi adicionado com sucesso à sua <strong>Lista de Desejos</strong>.
+        </div>
+        <div class="modal-footer">
+          <a class="botao" data-dismiss="modal" aria-hidden="true">Fechar</a>
+          <a class="botao principal" href="https://www.imperiorochamakeup.com.br/conta/favorito/listar">Visualizar Lista de Desejos</a>
+        </div>
+      </div>
+
+      <div id="AdicionarFavoritoErroModal" class="modal hide" aria-modal="true" tabindex="-1" role="dialog">
+        <div class="modal-header">
+          <span class="titulo cor-secundaria">Erro ao adicionar favorito</span>
+        </div>
+        <div class="modal-body">
+          <p>
+            O produto não foi adicionado com sucesso ao seus favoritos, por favor tente mais tarde.
+            <a href="https://www.imperiorochamakeup.com.br/conta/favorito/listar">Visualizar a lista de favoritos</a>.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <a class="botao" data-dismiss="modal" aria-hidden="true">Fechar</a>
+          <a class='botao principal' style="display: none;" id="AdicionarFavoritoLogin">Logar</a>
+        </div>
+      </div>
+    
+
+    
+      <div id="comprar-ajax-status" style="display: none;">
+        <div class="sucesso">
+          <div id="carrinho-mini" class="hidden-phone"></div>
+          <div class="head visible-phone">Produto adicionado com sucesso!</div>
+          <div class="buttons ">
+            <a href="javascript:$.fancybox.close();" class="botao continuar-comprando">Continuar comprando</a>
+            <a href="https://www.imperiorochamakeup.com.br/checkout" class="botao principal ir-carrinho hidden-phone"><i class="icon-shopping-cart"></i>Finalizar compra</a>
+            <a href="https://www.imperiorochamakeup.com.br/carrinho/index" class="botao principal ir-carrinho visible-phone"><i class="icon-shopping-cart"></i>Ir para o carrinho</a>
+          </div>
+        </div>
+        <div class="erro" style="display: none;">
+          <span class="msg">
+            Não foi possível adicionar o produto ao carrinho<br />
+            <strong>Tente novamente</strong>
+          </span>
+        </div>
+      </div>
+    
+
+    
+
+<div id="avise-me-cadastro" style="display: none;">
+  
+
+  <div class="avise-me">
+    <form action="" method="POST" class="avise-me-form">
+      <span class="avise-tit">
+        Ops!
+      </span>
+      <span class="avise-descr">
+        Esse produto encontra-se indisponível.<br />
+        Deixe seu e-mail que avisaremos quando chegar.
+      </span>
+      <div class="avise-input">
+        <div class="controls controls-row">
+          <input class="span5 avise-nome" name="avise-nome" type="text" placeholder="Digite seu nome" />
+          <label class="span7">
+            <i class="icon-envelope avise-icon"></i>
+            <input class="span12 avise-email" name="avise-email" type="email" placeholder="Digite seu e-mail" />
+          </label>
+        </div>
+      </div>
+      <div class="avise-btn">
+        <input type="submit" value="Avise-me quando disponível" class="botao fundo-secundario btn-block" />
+      </div>
+    </form>
+  </div>
+
+
+</div>
+
+<div id="avise-me-sucesso" style="display: none;">
+  <span class="avise-suc-tit cor-principal">
+    Obrigado!
+  </span>
+  <span class="avise-suc-descr">
+    Você receberá um e-mail de notificação, assim que esse produto estiver disponível em estoque
+  </span>
+</div>
+
+
+    
+
+    
+    
+
+
+  <div id="avisoCookies">
+    <div class="conteiner">
+      
+        
+      
+        
+          <p>Utilizamos cookies para que você tenha a melhor experiência em nosso site. Para saber mais acesse nossa página de
+            <a href="https://www.imperiorochamakeup.com.br/pagina/politica-de-privacidade.html" target="_blank" title="Política de Privacidade">
+              <strong>Política de Privacidade</strong>
+            </a>
+          </p>
+          <button type="button" id="btn-aceito-cookies" class="botao principal">Entendi</button>
+        
+      
+        
+      
+        
+      
+      </div>
+  </div>
+  <script>
+    $(function() {
+      try {
+        var cookieAvisoCookie = $.cookie('AvisoCookie'),
+            dataAvisoCookie = new Date(parseInt(cookieAvisoCookie)).getTime(),
+            dataModicacaoPoliticaPrivacidade = new Date('2023-09-26 13:36:04.226665').getTime();
+        if ($('#avisoCookies').length) {
+          
+          if (dataAvisoCookie < dataModicacaoPoliticaPrivacidade) {
+            $.removeCookie('AvisoCookie', { path: '/' });
+          }
+
+          if (!$.cookie('AvisoCookie')) {
+            $('body').addClass('mostrarAvisoCookie');
+          }
+
+          
+          $('#avisoCookies #btn-aceito-cookies').click(function() {
+            $.cookie('AvisoCookie', dataModicacaoPoliticaPrivacidade, { expires: 365, path: '/' });
+            $('body').removeClass('mostrarAvisoCookie');
+          });
+        }
+      } catch (e) {
+        console.error(e);
+      }
+    });
+  </script>
+
+
+
+    
+    
+
+
+
+
+    <!--googleon: all-->
+
+    
+    
+        
+      
+
+      
+	<!-- Código do rodapé -->
+  
+      
+  
+
+	<!-- loja -->
+  
+      <meta name="google-site-verification" content="Q2vuNOwEaM-63ijg6gmVU4T-TwWzqMieEZ8NSDqG6rU" />
+  
+
+	<!-- Configuração Inicial -->
+  
+      <script>
+// Configuração inicial - Grand Store Women
+var avisoConfig = ''; // Nao mexer
+var v = 2;
+
+////// Configurações gerais
+var logoDesktop = 220;
+var logoMobile = 60;
+var desejos = true;
+var desejosIcone = 'desejosIcone1';
+var desejosTxt = 'Desejos';
+var desejosAdd = 'Adicionar aos desejos';
+var rastreioRapido = 1;
+var topoFlutuante = true;
+var infoDestaque = true;
+var infoDestaqueIcone = 'iconeFrete';
+var infoDestaqueTxt = 'Enviamos para';
+var infoDestaqueTxt2 = 'todo Brasil';
+var infoDestaqueLink = '';
+var marcasSingular = 'Marca';
+var marcasPlural = 'Marcas';
+var marcasCarrosselTxt = 'Escolha pela marca';
+var marcasCarrosselAuto = true;
+var notificacao = false;
+var notificacaoD = 4;
+
+////// Atendimento
+var suporte = 2;
+var suporteLado = 1;
+var suporteAltura = 20;
+var suporteDistancia = 30;
+
+var wpTxt = 'Estamos no whatsapp';
+var wp1 = '8193868992';
+var wp1i = '';
+var wp1d = '';
+var wp1m = '';
+var wp1a = 'https://cdn.awsli.com.br/2642/2642700/arquivos/whatsapp.svg';
+var wp2 = '';
+var wp2i = '';
+var wp2d = '';
+var wp2m = '';
+var wp2a = '';
+var wp3 = '';
+var wp3i = '';
+var wp3d = '';
+var wp3m = '';
+var wp3a = '';
+var telTxt = 'Compre por telefone';
+var tel1 = '';
+var tel1i = '';
+var tel2 = '';
+var tel2i = '';
+var tel3 = '';
+var tel3i = '';
+var mailTxt = 'Envie uma mensagem';
+var mailN = 13;
+var mail1 = 'imperiorochalojavirtual@gmail.com';
+var mail1i = '';
+var mail2 = '';
+var mail2i = '';
+var mail3 = '';
+var mail3i = '';
+var spTxt = 'Vamos conversar?';
+var sp1 = '';
+var sp1i = '';
+var sp2 = '';
+var sp2i = '';
+var sp3 = '';
+var sp3i = '';
+var h1 = '';
+var h2 = '';
+var h3 = '';
+
+////// Carrinho/checkout
+var carrinhoIcone = 'carrinhoIcone2';
+var ccL = 1;
+var ccE = true;
+var ccS = true;
+var alertaF = false;
+var alertaV = 2;
+var alertaTxt = 'FRETE GRÁTIS';
+var alertaSD = '';
+var alertaSL = '';
+var alertaCO = '';
+var alertaNE = '';
+var alertaNT = '';
+var alerta1 = '';
+var alerta11 = '';
+var alerta1V = '';
+var alerta2 = '';
+var alerta22 = '';
+var alerta2V = '';
+var alerta3 = '';
+var alerta33 = '';
+var alerta3V = '';
+var sCart = false;
+var cCart = false;
+var cCartT = 3;
+var cCartQ = 300;
+var cCartC = '';
+var cCartB = '';
+var dPx = false;
+var dPN = '';
+var dPxE = 1;
+var dPP = '';
+var dPT = 1;
+var dPV = 1;
+var dP1q = 5;
+var dP1d = 10;
+var dP1c = '';
+var dP2q = 10;
+var dP2d = 15;
+var dP2c = '';
+var dP3q = 15;
+var dP3d = 20;
+var dP3c = '';
+var agE = false;
+var agEH = 3;
+var agED = 4;
+var agET = 2;
+var agEN = '26/09/2023';
+var ebPx = false;
+var ebPP = '';
+var ebPV = 4;
+
+////// Menu Superior
+var categorias = 7; 
+var menuModelo = 1;
+var menuAbertura = 4;
+
+var produtosMenu = true;
+
+var todasCategorias = true;
+var todasCategoriasTxt = 'Todas as categorias';
+
+var iconesCategorias = false;
+var iconesCategoriasTamanho = 29;
+var iconeCategoria1 = '';
+var iconeCategoria2 = '';
+var iconeCategoria3 = '';
+var iconeCategoria4 = '';
+var iconeCategoria5 = '';
+var iconeCategoria6 = '';
+var iconeCategoria7 = '';
+var iconeCategoria8 = '';
+var iconeCategoria9 = '';
+var iconeCategoria10 = '';
+
+var paginaMenu1 = '';
+var paginaMenu1Link = '';
+var paginaMenu2 = '';
+var paginaMenu2Link = '';
+var paginaMenu3 = '';
+var paginaMenu3Link = '';
+
+////// Ofertas
+var ofertas = false;
+var ofertasTitulo = 'Outlet';
+var iconeOfertas = 'iconeNone';
+var ofertasTxt = 'Somente hoje!!';
+var ofertasSub = 'Aproveite nossas ofertas com 30% de desconto';
+var ofertasListagem = false;
+var ofertasID = '';
+var ofertasTimer = false;
+var ofertasTimerData = '07/12/2022';
+
+////// Banners
+var fullFundo = '';
+var tarjaAvancado = true;
+var tarja1Icone = 'iconePix';
+var tarja1Txt = 'Pague com';
+var tarja1Sub = 'PIX';
+var tarja1Link = '';
+var tarja2Icone = 'iconeCartao';
+var tarja2Txt = 'Parcelamos em';
+var tarja2Sub = 'até 6x';
+var tarja2Link = '';
+var tarja3Icone = 'iconeSeguranca';
+var tarja3Txt = 'Compra garantida';
+var tarja3Sub = 'Loja 100% segura';
+var tarja3Link = '';
+var tarja4Icone = 'iconeDinheiro';
+var tarja4Txt = 'Preço fixo';
+var tarja4Sub = 'de 10 Reais';
+var tarja4Link = '';
+var escolhaTxt = '';
+var escolhaImg = 8;
+
+////// Listagem
+var fixarImagem = false;
+var varL = false;
+var prodTxt = 2;
+var fixarAdicionar = false;
+var adicionar = 'Adicionar';
+var produtosCarrossel = true;
+var produtosCarrosselAuto = true;
+var produtosLinhaDesktop = 5;
+var produtosLinhaMobile = 2;
+var precoC = false;
+var precoP = false;
+var precoA = false;
+var comprarWhatsapp = false;
+var comprarWhatsappT = 'Comprar pelo whatsapp';
+var comprarWhatsappM = '';
+var comprarWhatsappV = false;
+var comprarWhatsappC = false;
+var bP = false;
+var bPCEP = false;
+var bPFrete = false;
+var bPp1 = '';
+var bPt1 = '';
+var bPd1 = '';
+var bPp2 = '';
+var bPt2 = '';
+var bPd2 = '';
+var bPp3 = '';
+var bPt3 = '';
+var bPd3 = '';
+var tituloLancamentos = 'Lançamentos';
+var tituloVendidos = 'Mais vendidos';
+var tituloDestaques = 'Destaques';
+
+////// Video
+var videoDestaque = false;
+var videoTxt = '';
+var videoLink = '';
+var videoProduto = false;
+var videoProdutoTxt = 'Produtos no vídeo';
+var videoProdutoAuto = true;
+
+////// Depoimentos
+var depoimentos = false;
+var depoimentosAuto = false;
+var depoimentosTxt = 'Quem já comprou e recomenda';
+
+var dep1Avatar = '';
+var dep1Msg = '';
+var dep1Nome = '';
+var dep1Link = '';
+var dep2Avatar = '';
+var dep2Msg = '';
+var dep2Nome = '';
+var dep2Link = '';
+var dep3Avatar = '';
+var dep3Msg = '';
+var dep3Nome = '';
+var dep3Link = '';
+var dep4Avatar = '';
+var dep4Msg = '';
+var dep4Nome = '';
+var dep4Link = '';
+var dep5Avatar = '';
+var dep5Msg = '';
+var dep5Nome = '';
+var dep5Link = '';
+
+////// Blog
+var blog = false;
+var blogData = true;
+var blogResumo = true;
+var blogComentarios = true;
+var blogCompartilhar = true;
+var blogFeed = true;
+var blogFeedTxt = 'Últimas postagens';
+var blogAutor = false;
+var autor1Avatar = '';
+var autor1 = '';
+var autor1Bio = '';
+var autor2Avatar = '';
+var autor2 = '';
+var autor2Bio = '';
+var autor3Avatar = '';
+var autor3 = '';
+var autor3Bio = '';
+
+////// Newsletter
+var cupomNewsletter = '';
+var imgNewsletter = '';
+
+////// Redes Sociais
+var instaF = false;
+var instaR = false;
+var instaV = false;
+var instaTxt = 'Gostou? Segue a gente';
+var instaT = '';
+var facebookBox = false;
+
+////// Rodape
+var rodapeLogo = '';
+var rodapeEndereco = 'Rua Melo Verçosa, Travessa Capitão Fagundes, Matriz, Vitória de Santo Antão| CEP:55602-020';
+
+var rodapeSocial = 'Redes sociais';
+var rodapeSobre = 'Sobre nós';
+var rodapePaginas = 'Institucional';
+var rodapePagamento = 'Formas de pagamento';
+var rodapeSelos = 'Selos de segurança';
+
+var formasEnvio = true;
+var formasEnvioTxt = 'Formas de envio';
+var formaEnvio1 = 'https://bit.ly/3PTe8s2';
+var formaEnvio2 = 'https://bit.ly/3PJv5FG';
+var formaEnvio3 = '';
+
+////// Pagina do produto
+var imagemProduto = 600;
+var compartilhamento = true;
+var resumoFlutuante = true;
+var calculadoraFrete = true;
+var codigoTxt = 'Cód';
+var disponibilidadeTxt = '';
+var descricaoTxt = 'Descrição';
+var relacionadosTxt = 'Aproveite e compre também';
+var variacaoCor = false;
+var variacaoTxt = 'Primeiro você deve escolher uma opção.';
+var descricaoCurta = false;
+var pagamentoCompacto = true;
+var pagamentoTxt = 'mais formas de pagamento';
+var avista = 'à vista';
+var avistaDesconto = true;
+var pixPP = true;
+var pixPPValor = 0;
+var pixPPA = false;
+var pixPPB = false;
+var personalizador = false;
+var peB = 'Personalize';
+var peBT = 'Personalizar';
+var peU = '';
+var pe1T = 1;
+var pe1P = '';
+var pe1Txt = '';
+var pe1F = '';
+var pe1O = 1;
+var pe1L = 10;
+var pe1Obg = false;
+var pe1Aux = '';
+var pe1V1 = '';
+var pe1V2 = '';
+var pe1V3 = '';
+var pe2T = 2;
+var pe2P = '';
+var pe2Txt = '';
+var pe2F = '';
+var pe2O = 3;
+var pe2L = 2;
+var pe2Obg = false;
+var pe2Aux = '';
+var pe2V1 = '';
+var pe2V2 = '';
+var pe2V3 = '';
+var tabelaMedidas = false;
+var tabelaMedidasProduto = true;
+var tabelaNome = '';
+var tabelaImg1 = '';
+var tabelaPalavra1 = '';
+var tabelaImg2 = '';
+var tabelaPalavra2 = '';
+var tabelaImg3 = '';
+var tabelaPalavra3 = '';
+var validade = false;
+var validadeTxt = 'Validade:';
+var validadeA = 'Perto do vencimento';
+var validadeD = 30;
+var prevenda = false;
+var prevendaTxt = 'Pré-Venda';
+var prevendaTxt2 = 'Lançamento:';
+var prevendaTxt3 = '';
+var prevendaC = true;
+var calc = false;
+var calcPalavra = '';
+var calcObj = '';
+var calcTxt = '';
+var calcATxt = '';
+var calcA = 1.5;
+var calcLTxt = '';
+var calcL = 0.53;
+var calcDuvida = '';
+var lEx = false;
+
+var cModelo = 2;
+var cFundoEscuro = false;
+var cOfertasFundo = false;
+var csOfertasFundo = true;
+
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/js/iziModal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/css/iziModal.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre Franklin:wght@400;500;700" rel="stylesheet">
+
+<style>
+
+/*Cores*/
+:root {
+--csCorPrincipal:#201f1f;
+--csBotoes:#30a77e;
+--csSuporte:#27bf64;
+--csSuporteIcone:#ffffff;
+--csInfoDestaque:#f1f1f1;
+--csInfoDestaqueTxt:#565656;
+--csCab:#ffffff;
+--csCabTxt:#201f1f;
+--csBusca:#f6f6f6;
+--csBuscaTxt:#808080;
+--csCarrinhoqtd:#30a77e;
+--csCarrinhoqtdn:#ffffff;
+--csMenu:#201f1f;
+--csMenuTxt:#ffffff;
+--csTodasCategorias:#ffffff;
+--csOfertas:#2b2a2a;
+--csOfertasTxt:#ffffff;
+--csBandeiraDesconto:#ee8403;
+--csBp1:#ee8403;
+--csBp2:#4a93d4;
+--csBp3:#6aa84f;
+
+--cFundo:#ffffff;
+--cBotoes:#674ea7;
+--cBotoesTxt:#ffffff;
+--cTitulos:#201f1f;
+--cAlerta:#674ea7;
+--cdP:#8e7cc3;
+--cSuporte:#674ea7;
+--cSuporteIcone:#ffffff;
+--cBarra:#ffffff;
+--cBarraTxt:#606060;
+--cInfoDestaque:#674ea7;
+--cInfoDestaqueIcone:#ffffff;
+--cInfoDestaqueTxt:#ffffff;
+--cCab:#d9d2e9;
+--cCabIcones:#674ea7;
+--cCabTxt:#201f1f;
+--cBusca:#f6f6f6;
+--cBuscaTxt:#808080;
+--cCarrinhoqtd:#674ea7;
+--cCarrinhoqtdn:#ffffff;
+--cMenu:#ffffff;
+--cMenuTxt:#201f1f;
+--cTodasCategoriasIcone:#674ea7;
+--cTodasCategoriasTxt:#201f1f;
+--cOfertas:#201f1f;
+--cOfertasTxt:#674ea7;
+--cOfertasT:#674ea7;
+--cOfertasL:#674ea7;
+--cOfertasLTxt:#ffffff;
+--cBannerF:#674ea7;
+--cBannerN:#ffffff;
+--cBannerP:#ffffff;
+--cBannerB:#674ea7;
+--cBannerBTxt:#ffffff;
+--cTarja:#ffffff;
+--cTarjaIcone:#201f1f;
+--cTarjaTxt:#674ea7;
+--cTarjaSub:#201f1f;
+--cPreco:#674ea7;
+--cPix:#f3f6f4;
+--cPixIcone:#674ea7;
+--cPixTxt:#201f1f;
+--cBotaoWP:#ffffff;
+--cBotaoWPTxt:#674ea7;
+--cBotaoWPBorda:#674ea7;
+--cBandeiraDesconto:#51a92b;
+--cBandeiraDescontoTxt:#ffffff;
+--cBandeiraFrete:#199a64;
+--cBandeiraFreteTxt:#ffffff;
+--cBp1:#e69138;
+--cBp1Txt:#ffffff;
+--cBp2:#c12c2c;
+--cBp2Txt:#ffffff;
+--cBp3:#653239;
+--cBp3Txt:#ffffff;
+--cVMarcas:#f7f7f7;
+--cVMarcasTxt:#201f1f;
+--cVVideo:#f7f7f7;
+--cVVideoTxt:#201f1f;
+--cVBlog:#ffffff;
+--cVBlogTxt:#201f1f;
+--cVBlogD:#674ea7;
+--cVDepoimentos:#f7f7f7;
+--cVDepoimentosTxt:#201f1f;
+--cNewsletter:#ffffff;
+--cNewsletterTxt:#201f1f;
+--cNewsletterCaixa:#f6f6f6;
+--cNewsletterCaixaTxt:#323232;
+--cRodape:#ffffff;
+--cRodapeTxt:#201f1f;
+--cRodapeRedes:#f3f3f3;
+--cRodapeRedesTxt:#424242;
+--cRodapeInferior:#ffffff;
+--cRodapeInferiorTxt:#181818;
+--cLancamento:#674ea7;
+--cDesc:#f9f9f9;
+--cDescTxt:#201f1f;
+}
+
+.vitrine-produtos {order:4}
+.vitrine-destaque {order:2}
+.vitrine-mas-vendido {order:3}
+.vitrine-lancamento {order:1}
+.vitrine-instagram {order:6}
+.vitrine-marcas {order:5}
+.vitrine-video {order:7}
+.vitrine-depoimentos {order:9}
+.vitrine-blog {order:8}
+
+.produto-descricao {order:2}
+.produto-comentarios {order:3}
+.produto-aproveite {order:4}
+.produto-comprejunto {order:1}
+
+.pagina-categoria .banner.vitrine {order:2}
+.pagina-categoria #listagemProdutos {order:4}
+.categoria-descricao {order:1}
+.categoria-newsletter {order:3}
+
+/* Fonte da loja*/
+body, input, select, .titulo, button, textarea, .pagina-pagina .caixa-sombreada p {font-family:Libre Franklin};
+    
+</style>
+  
+
+    
+
+    
+
+    <script>
+      window.fbAsyncInit = function() {
+        
+          if($('meta[property="fb:app_id"]').length) {
+            FB.init({
+              appId      : $('meta[property="fb:app_id"]').attr('content'),
+              xfbml      : true,
+              version    : 'v2.5'
+            });
+          } else {
+            FB.init({
+              xfbml      : true,
+              version    : 'v2.5'
+            });
+          }
+        
+      };
+
+      (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/pt_BR/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    
+<script>
+  var sendTrackingConvertionMetrics = function(data) {
+    try {
+      var url = 'https://www.imperiorochamakeup.com.br/tracking/convertion';
+
+      var payload = JSON.stringify({
+        ...data,
+        url: window.location.href
+      });
+
+      (navigator.sendBeacon && navigator.sendBeacon(url, payload)) ||
+        fetch(url, {method: 'POST', keepalive: true, body: payload});
+    } catch (err) { }
+  }
+</script>
+
+    
+<script>
+  var url = '/_events/api/setEvent';
+
+  var sendMetrics = function(event) {
+    var unique_identifier = uuidv4();
+
+    try {
+      var data = {
+        request: {
+          id: unique_identifier,
+          environment: 'production'
+        },
+        store: {
+          id: 2642700,
+          name: 'Império Rocha Makeup',
+          test_account: false
+        },
+        device: {
+          is_mobile: /Mobi/.test(window.navigator.userAgent),
+          user_agent: window.navigator.userAgent,
+          ip: '###device_ip###'
+        },
+        page: {
+          host: window.location.hostname,
+          path: window.location.pathname,
+          search: window.location.search,
+          type: 'home',
+          title: document.title,
+          referrer: document.referrer
+        },
+        timestamp: '###server_timestamp###',
+        user_timestamp: new Date().toISOString(),
+        event,
+        origin: 'store'
+      };
+      
+      if (window.performance) {
+        var [timing] = window.performance.getEntriesByType('navigation');
+
+        data['time'] = {
+          server_response: Math.round(timing.responseStart - timing.requestStart)
+        };
+      }
+
+      var user_email = $.cookie('user_email'),
+          guest_email = $.cookie('guest_email');
+      
+      if (user_email) {
+        data['user'] = {
+          is_guest: false,
+          email: user_email
+        };
+      } else if (guest_email) {
+        data['user'] = {
+          is_guest: true,
+          email: guest_email
+        };
+      }
+
+      try {
+        var session_identifier = $.cookie('li_session_identifier');
+
+        if (!session_identifier) {
+          session_identifier = uuidv4();
+        };
+
+        var expiration_date = new Date();
+
+        expiration_date.setTime(expiration_date.getTime() + (30 * 60 * 1000)); // 30 minutos
+
+        $.cookie('li_session_identifier', session_identifier, {
+          expires: expiration_date,
+          path: '/'
+        });
+
+        data['session'] = {
+          id: session_identifier
+        };
+      } catch (err) { }
+
+      try {
+        var user_session_identifier = $.cookie('li_user_session_identifier');
+
+        if (!user_session_identifier) {
+          user_session_identifier = uuidv4();
+
+          $.cookie('li_user_session_identifier', user_session_identifier, {
+            path: '/'
+          });
+        };
+
+        data['user_session'] = {
+          id: user_session_identifier
+        };
+      } catch (err) { }
+
+      try {
+        var ab_test_cookie = $.cookie('li_ab_test_running');
+
+        if (ab_test_cookie) {
+          var running_tests = JSON.parse(atob(ab_test_cookie));
+
+          if (running_tests.length) {
+            data['store']['ab_test'] = running_tests;
+          }
+        }
+      } catch (err) { }
+
+      var utm = {};
+
+      $.each(sessionStorage, function(key, value) {
+        if (key.startsWith('utm_')) {
+          var name = key.split('_')[1];
+
+          utm[name] = value;
+        }
+      });
+
+      if (!$.isEmptyObject(utm)) {
+        data['session']['utm'] = utm;
+      }
+
+      var controller = new AbortController();
+
+      setTimeout(function() {
+        controller.abort();
+      }, 5000);
+
+      fetch(url, {
+        keepalive: true,
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ data }),
+        signal: controller.signal
+      });
+    } catch (err) { }
+
+    return unique_identifier;
+  }
+</script>
+
+    
+<script>
+  (function() {
+    var initABTestHandler = function() {
+      try {
+        if ($.cookie('li_ab_test_running')) {
+          return
+        };
+        var running_tests = [];
+
+        
+        
+
+        var running_tests_to_cookie = JSON.stringify(running_tests);
+        running_tests_to_cookie = btoa(running_tests_to_cookie);
+        $.cookie('li_ab_test_running', running_tests_to_cookie, {
+          path: '/'
+        });
+
+      } catch (err) { }
+    }
+    setTimeout(initABTestHandler, 500);
+  }());
+</script>
+
+    
+<script>
+  $(function() {
+    // Clicar em um produto
+    $('.listagem-item').click(function() {
+      var row, column;
+
+      var $list = $(this).closest('[data-produtos-linha]'),
+          index = $(this).closest('li').index();
+
+      if($list.find('.listagem-linha').length === 1) {
+        var productsPerRow = $list.data('produtos-linha');
+
+        row = Math.floor(index / productsPerRow) + 1;
+        column = (index % productsPerRow) + 1;
+      } else {
+        row = $(this).closest('.listagem-linha').index() + 1;
+        column = index + 1;
+      }
+
+      var body = {
+        item_id: $(this).attr('data-id'),
+        item_sku: $(this).find('.produto-sku').text(),
+        item_name: $(this).find('.nome-produto').text().trim(),
+        item_row: row,
+        item_column: column
+      };
+
+      var eventID = sendMetrics({
+        type: 'event',
+        name: 'select_product',
+        data: body
+      });
+
+      $(document).trigger('li_select_product', [eventID, body]);
+    });
+
+    // Clicar no "Fale Conosco"
+    $('#modalContato').on('show', function() {
+      var value = 'Fale Conosco';
+
+      var eventID = sendMetrics({
+        type: 'event',
+        name: 'start_contact',
+        data: { text: value }
+      });
+
+      $(document).trigger('li_start_contact', [eventID, value]);
+    });
+
+    // Clicar no WhatsApp
+    $('.li-whatsapp a').click(function() {
+      var value = 'WhatsApp';
+
+      var eventID = sendMetrics({
+        type: 'event',
+        name: 'start_contact',
+        data: { text: value }
+      });
+
+      $(document).trigger('li_start_contact', [eventID, value]);
+    });
+
+    
+      // Visualizar a página inicial
+      var eventID = sendMetrics({
+        type: 'pageview',
+        name: 'view_home'
+      });
+
+      $(document).trigger('li_view_home', [eventID]);
+    
+  });
+</script>
+
+    
+
+
+  
+  
+    <script type="text/javascript">
+      if('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/service-worker.js');
+        });
+      }
+    </script>
+  
+
+
+  </body>
+</html>
